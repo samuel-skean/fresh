@@ -19,6 +19,7 @@ Deploy Fresh to Cloudflare Workers by following these instructions:
     ],
   });
 ```
+// TODO(samuel-skean): Fix these instructions. They seem to lead to circular dependencies.
 
 3. Create a `server.js` file that serves as the cloudflare worker entry file:
 
